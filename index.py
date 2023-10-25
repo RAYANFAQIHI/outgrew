@@ -1,3 +1,0 @@
-print("Please Enter ")
-input()
-
